@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "img": "../public/img/sponge.png",
+      "firstName": "spongebob",
+      "lastName": "squarepants",
+      "email": "spongebob@cartoon.com",
+      "type": "Sponge"
+    },
+    {
+      "id": 2,
+      "firstName": "krabs",
+      "lastName": "krabs",
+      "email": "krabs@cartoon.com",
+      "type": "Crab"
+    },
+    {
+      "id": 3,
+      "firstName": "squidward",
+      "lastName": "squiddy",
+      "email": "squiward@cartoon.com",
+      "type": "Squid"
+    },
+    {
+      "id": 4,
+      "firstName": "dexter",
+      "lastName": "genius",
+      "email": "dexter@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 5,
+      "firstName": "courage",
+      "lastName": "dog",
+      "email": "courage@cartoon.com",
+      "type": "Dog"
+    },
+    {
+      "id": 6,
+      "firstName": "doug",
+      "lastName": "funnie",
+      "email": "doug@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 7,
+      "firstName": "bugs",
+      "lastName": "bunny",
+      "email": "bugs@cartoon.com",
+      "type": "Bunny"
+    },
+    {
+      "id": 8,
+      "firstName": "johnny",
+      "lastName": "bravo",
+      "email": "johnny@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 9,
+      "firstName": "tommy",
+      "lastName": "pickles",
+      "email": "tommy@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 10,
+      "firstName": "rocko",
+      "lastName": "man",
+      "email": "rocko@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 11,
+      "firstName": "captain",
+      "lastName": "planet",
+      "email": "captain@cartoon.com",
+      "type": "Human"
+    },
+    {
+      "id": 12,
+      "firstName": "ickis",
+      "lastName": "monster",
+      "email": "ickis@cartoon.com",
+      "type": "Monster"
+    }
+  ]
